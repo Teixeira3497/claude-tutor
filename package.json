@@ -1,6 +1,6 @@
 {
   "name": "claude-tutor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Turn Claude Code into your personal tutor \u2014 personalized learning plans, adaptive quizzes, SM-2 spaced repetition, and a web dashboard. Works with any topic.",
   "main": "src/index.js",
   "scripts": {
