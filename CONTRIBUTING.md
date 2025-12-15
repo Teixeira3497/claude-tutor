@@ -10,3 +10,4 @@ Notes and usage details for claude-tutor.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
