@@ -15,3 +15,4 @@ Notes and usage details for claude-tutor.
 - fix a small wording issue
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
